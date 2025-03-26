@@ -12,5 +12,5 @@ This is actually the probability of context_word given center_word.  <br>
 and n is the size of word_embeddings. I have used n = 64.  <br>
  <br>
 To plot the 2-D graph we have reduce diamentions of word_embeddings to 2.  <br><br>
-<img src="./Figure_1.png" align="center" width = "50%"> 
+<img src="./Figure_1.png" text-align="center" width = "80%"> 
 </font>
