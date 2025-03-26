@@ -1,4 +1,4 @@
-<font face ="Arial">
+<font face ="monospace">
 First I used Dense layer with linear activation and second dense layer with softmax activation. <br>
 Let 
 v: vocablury_size   <br>
