@@ -5,7 +5,7 @@ n: no_units_in_first_dense_layer.  <br>
 W matrix: V x n is the center_word matrix. <br>
 W' matrix: n x V is the context_word matrix.  <br>
  <br>
-Output equation is <br>
+So output equation is <br>
 <b>Y = softmax(W'* W* X).  </b> <br>
 This is actually the probability of context_word given center_word.  <br>
 and n is the size of word_embeddings. I have used n = 64.  <br>
