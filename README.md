@@ -1,4 +1,4 @@
-<font face ="Times New Roman">
+<font face ="serif">
 First I used Dense layer with linear activation and second dense layer with softmax activation. <br>
 Let 
 v: vocablury_size   <br>
